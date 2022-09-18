@@ -1,5 +1,8 @@
 on:
   workflow_dispatch
+  push:
+    branches:
+      - 'main'
 jobs:
   c3_files_cleanup:
     runs-on: ubuntu-latest
