@@ -1,4 +1,5 @@
 import re
+import argparse
 import subprocess
 from pathlib import Path
 
@@ -22,8 +23,9 @@ def format_data_json(project, version, json_file):
 
 
 if __name__ == '__main__':
-    version = subprocess.check_output("git rev-parse HEAD").decode("utf-8")
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--version')
+    args = parser.parse_args()
     data_jsons = [x for x in Path("./").resolve().rglob("*data.json")]
     for data_file in data_jsons:
-        format_data_json(data_file.parent.stem, version, data_file)
-
+        format_data_json(data_file.parent.stem, args.version, data_file)

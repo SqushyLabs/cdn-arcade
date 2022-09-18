@@ -11,11 +11,11 @@ jobs:
           env:
               ACCESS_TOKEN: '${{ secrets.ACCESS_TOKEN }}'
         - run: ls
-#        - run: python formatC3.py
-#        - run: |
-#            git config --global user.email "sqush.bot@squshy.co"
-#            git config --global user.name "sqush.bot"
-#            git config --global credential.helper cache
-#            git add .
-#            git commit -m "Automated update: reformatting files for c3 - $(date)"
-#            git push
+        - run: python formatC3.py --version ${{ github.sha }}
+        - run: |
+            git config --global user.email "sqush.bot@squshy.co"
+            git config --global user.name "sqush.bot"
+            git config --global credential.helper cache
+            git add .
+            git commit -m "Automated update: reformatting files for c3 - $(date)"
+            git push
