@@ -5,6 +5,7 @@ on:
       - 'main'
 jobs:
   c3_files_cleanup:
+    if: github.event.pull_request.merged == false
     runs-on: ubuntu-latest
     steps:
         - uses: actions/checkout@master
