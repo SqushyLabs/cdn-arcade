@@ -13,7 +13,7 @@ def format_data_json(project, version, json_file):
 
     sub_folders = ["images", "media", "fonts"]
     for folder in sub_folders:
-        data = re.sub(fr'"{folder}/(.*?)"', fr'"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@{version}/{project}/images/\1"', data)
+        data = re.sub(fr'"{folder}/(.*?)"', fr'"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@{version}/{project}/{folder}/\1"', data)
 
     with open(json_file, "w") as text_file:
         text_file.write(data)
