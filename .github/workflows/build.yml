@@ -16,6 +16,7 @@ jobs:
             git config --global user.name "sqush.bot"
             git config --global credential.helper cache
             git switch -c c3_reformat
+            git push --set-upstream origin c3_reformat
         - run: python formatC3.py --version ${{ github.sha }}
         - run: |
             git add .
