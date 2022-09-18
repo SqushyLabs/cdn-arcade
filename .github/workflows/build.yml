@@ -15,7 +15,7 @@ jobs:
             git config --global user.email "sqush.bot@squshy.co"
             git config --global user.name "sqush.bot"
             git config --global credential.helper cache
-            git branch c3_reformat main
+            git switch -c c3_reformat
         - run: python formatC3.py --version ${{ github.sha }}
         - run: |
             git add .
