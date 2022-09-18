@@ -222,7 +222,7 @@
 				1,
 				1,
 				[
-					"images/tb_01_water_fg-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_01_water_fg-sheet0.png",
 					223208,
 					0,
 					0,
@@ -263,7 +263,7 @@
 				1,
 				0,
 				[
-					"images/tb_02_clouds-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_02_clouds-sheet0.png",
 					255507,
 					0,
 					0,
@@ -299,7 +299,7 @@
 				1,
 				1,
 				[
-					"images/tb_03_shadows-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_03_shadows-sheet0.png",
 					150062,
 					0,
 					0,
@@ -340,7 +340,7 @@
 				1,
 				0,
 				[
-					"images/tb_04_wood-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_04_wood-sheet0.png",
 					384696,
 					0,
 					0,
@@ -376,7 +376,7 @@
 				1,
 				0,
 				[
-					"images/tb_05_water_bg-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_05_water_bg-sheet0.png",
 					175420,
 					0,
 					0,
@@ -412,7 +412,7 @@
 				1,
 				0,
 				[
-					"images/tb_06_riverbed-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_06_riverbed-sheet0.png",
 					82072,
 					0,
 					0,
@@ -459,7 +459,7 @@
 						424613605509163,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1537,
 								1793,
@@ -492,7 +492,7 @@
 				2,
 				0,
 				[
-					"images/block-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/block-sheet0.png",
 					2154,
 					0,
 					0,
@@ -545,7 +545,7 @@
 						177341206498849,
 						[
 							[
-								"images/shared-0-sheet2.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet2.png",
 								29412,
 								0,
 								0,
@@ -590,7 +590,7 @@
 				1,
 				0,
 				[
-					"images/tb_04_wood2-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_04_wood2-sheet0.png",
 					154726,
 					0,
 					0,
@@ -626,7 +626,7 @@
 				1,
 				0,
 				[
-					"images/tb_05_water_wsbg-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_05_water_wsbg-sheet0.png",
 					118238,
 					0,
 					0,
@@ -662,7 +662,7 @@
 				1,
 				0,
 				[
-					"images/tb_05_water_wsfg-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/tb_05_water_wsfg-sheet0.png",
 					155640,
 					0,
 					0,
@@ -709,7 +709,7 @@
 						851810742027083,
 						[
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -740,7 +740,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -771,7 +771,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -802,7 +802,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -833,7 +833,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -864,7 +864,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -895,7 +895,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -926,7 +926,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								1,
@@ -957,7 +957,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								1,
@@ -988,7 +988,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								1,
@@ -1019,7 +1019,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								1,
@@ -1098,7 +1098,7 @@
 						658961127221190,
 						[
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -1129,7 +1129,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -1160,7 +1160,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								257,
@@ -1191,7 +1191,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -1222,7 +1222,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -1253,7 +1253,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -1284,7 +1284,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -1315,7 +1315,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -1346,7 +1346,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								257,
@@ -1377,7 +1377,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								1,
 								1,
@@ -1408,7 +1408,7 @@
 								]
 							],
 							[
-								"images/enemy01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy01-sheet0.png",
 								100333,
 								129,
 								1,
@@ -1487,7 +1487,7 @@
 						455981762093018,
 						[
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								317,
 								257,
@@ -1518,7 +1518,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								432,
 								769,
@@ -1551,7 +1551,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								1,
 								769,
@@ -1584,7 +1584,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								125,
 								769,
@@ -1617,7 +1617,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								152,
 								513,
@@ -1648,7 +1648,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								298,
 								513,
@@ -1679,7 +1679,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								231,
 								769,
@@ -1710,7 +1710,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								331,
 								769,
@@ -1741,7 +1741,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								1,
 								513,
@@ -1772,7 +1772,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								1,
 								257,
@@ -1803,7 +1803,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								159,
 								257,
@@ -1834,7 +1834,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								1,
 								1,
@@ -1865,7 +1865,7 @@
 								]
 							],
 							[
-								"images/enemy03-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/enemy03-sheet0.png",
 								254530,
 								257,
 								1,
@@ -1939,7 +1939,7 @@
 						650726503641643,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								769,
 								1537,
@@ -1970,7 +1970,7 @@
 								]
 							],
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1447,
 								513,
@@ -2038,7 +2038,7 @@
 						154795396356702,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1173,
 								513,
@@ -2102,7 +2102,7 @@
 						550782362729870,
 						[
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								149,
 								1,
@@ -2139,7 +2139,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								1,
 								1,
@@ -2176,7 +2176,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								149,
 								129,
@@ -2213,7 +2213,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								75,
 								129,
@@ -2250,7 +2250,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								1,
 								129,
@@ -2287,7 +2287,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								75,
 								1,
@@ -2324,7 +2324,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								1,
 								129,
@@ -2361,7 +2361,7 @@
 								]
 							],
 							[
-								"images/pickup01-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup01-sheet0.png",
 								40971,
 								75,
 								129,
@@ -2435,7 +2435,7 @@
 						757015695945907,
 						[
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								193,
 								385,
@@ -2466,7 +2466,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								1,
 								385,
@@ -2497,7 +2497,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								129,
 								385,
@@ -2528,7 +2528,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								161,
 								129,
@@ -2559,7 +2559,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								193,
 								257,
@@ -2590,7 +2590,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								1,
 								129,
@@ -2621,7 +2621,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								129,
 								257,
@@ -2652,7 +2652,7 @@
 								]
 							],
 							[
-								"images/pickup02-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/pickup02-sheet0.png",
 								85135,
 								1,
 								257,
@@ -2726,7 +2726,7 @@
 						477733301274674,
 						[
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1,
 								1,
@@ -2818,7 +2818,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								327,
 								1,
@@ -2910,7 +2910,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1025,
 								1,
@@ -3002,7 +3002,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								648,
 								1,
@@ -3094,7 +3094,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								648,
 								1025,
@@ -3197,7 +3197,7 @@
 						754372010791047,
 						[
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1281,
 								1025,
@@ -3228,7 +3228,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1281,
 								1025,
@@ -3259,7 +3259,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								327,
 								1025,
@@ -3290,7 +3290,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								944,
 								1025,
@@ -3321,7 +3321,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1,
 								1025,
@@ -3352,7 +3352,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1585,
 								1,
@@ -3426,7 +3426,7 @@
 						773361196655500,
 						[
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1,
 								1,
@@ -3518,7 +3518,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								327,
 								1,
@@ -3610,7 +3610,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1025,
 								1,
@@ -3702,7 +3702,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								648,
 								1,
@@ -3794,7 +3794,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								648,
 								1025,
@@ -3897,7 +3897,7 @@
 						964830855990053,
 						[
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1281,
 								1025,
@@ -3928,7 +3928,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								327,
 								1025,
@@ -3959,7 +3959,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								944,
 								1025,
@@ -3990,7 +3990,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1,
 								1025,
@@ -4021,7 +4021,7 @@
 								]
 							],
 							[
-								"images/player-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/player-sheet0.png",
 								1028484,
 								1585,
 								1,
@@ -4063,7 +4063,7 @@
 						650999234877349,
 						[
 							[
-								"images/shared-0-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet0.png",
 								135746,
 								0,
 								0,
@@ -4092,7 +4092,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet7.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet7.png",
 								245773,
 								0,
 								0,
@@ -4121,7 +4121,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet6.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet6.png",
 								133491,
 								0,
 								0,
@@ -4150,7 +4150,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet5.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet5.png",
 								241222,
 								0,
 								0,
@@ -4179,7 +4179,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet4.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet4.png",
 								127032,
 								0,
 								0,
@@ -4208,7 +4208,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet1.png",
 								239208,
 								0,
 								0,
@@ -4237,7 +4237,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet2.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet2.png",
 								132155,
 								0,
 								0,
@@ -4266,7 +4266,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet3.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet3.png",
 								247634,
 								0,
 								0,
@@ -4295,7 +4295,7 @@
 								]
 							],
 							[
-								"images/playeranimation-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/playeranimation-sheet0.png",
 								137555,
 								0,
 								0,
@@ -4373,7 +4373,7 @@
 				1,
 				0,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1793,
 					1793,
@@ -4406,7 +4406,7 @@
 				1,
 				0,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1025,
 					1793,
@@ -4439,7 +4439,7 @@
 				1,
 				0,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					513,
 					1793,
@@ -4483,7 +4483,7 @@
 						785114838221232,
 						[
 							[
-								"images/shared-0-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet0.png",
 								135746,
 								0,
 								0,
@@ -4567,7 +4567,7 @@
 						543102443987804,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								735,
 								1,
@@ -4617,7 +4617,7 @@
 				0,
 				0,
 				[
-					"images/mm_button-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/mm_button-sheet0.png",
 					3897,
 					0,
 					0,
@@ -4682,7 +4682,7 @@
 						243253858141232,
 						[
 							[
-								"images/shared-0-sheet2.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet2.png",
 								29412,
 								0,
 								0,
@@ -4720,7 +4720,7 @@
 				0,
 				0,
 				[
-					"images/mm_button2-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/mm_button2-sheet0.png",
 					4016,
 					0,
 					0,
@@ -4835,7 +4835,7 @@
 						6559514171286197,
 						[
 							[
-								"images/shared-0-sheet3.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet3.png",
 								3490,
 								1,
 								1,
@@ -4886,7 +4886,7 @@
 						100005079942855,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1281,
 								1793,
@@ -4930,7 +4930,7 @@
 						239457271423287,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1537,
 								1025,
@@ -4981,7 +4981,7 @@
 						7712241824545882,
 						[
 							[
-								"images/shared-0-sheet3.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet3.png",
 								3490,
 								1,
 								1,
@@ -5032,7 +5032,7 @@
 						482868226669696,
 						[
 							[
-								"images/shared-0-sheet3.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet3.png",
 								3490,
 								1,
 								35,
@@ -5100,7 +5100,7 @@
 						570177669411832,
 						[
 							[
-								"images/shared-0-sheet3.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet3.png",
 								3490,
 								35,
 								1,
@@ -5150,7 +5150,7 @@
 				1,
 				0,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1025,
 					1793,
@@ -5183,7 +5183,7 @@
 				1,
 				0,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1537,
 					1537,
@@ -5216,7 +5216,7 @@
 				1,
 				0,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1025,
 					1537,
@@ -5249,7 +5249,7 @@
 				1,
 				1,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1281,
 					1537,
@@ -5287,7 +5287,7 @@
 				1,
 				1,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1793,
 					1025,
@@ -5325,7 +5325,7 @@
 				1,
 				1,
 				[
-					"images/shared-0-sheet1.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 					1998926,
 					1793,
 					769,
@@ -5374,7 +5374,7 @@
 						519966412911310,
 						[
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								1,
@@ -5388,7 +5388,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								181,
@@ -5411,7 +5411,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								361,
@@ -5434,7 +5434,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								539,
@@ -5461,7 +5461,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								539,
@@ -5488,7 +5488,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								539,
@@ -5515,7 +5515,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								541,
@@ -5544,7 +5544,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								541,
@@ -5573,7 +5573,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								541,
@@ -5604,7 +5604,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								541,
@@ -5635,7 +5635,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								769,
@@ -5664,7 +5664,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								769,
@@ -5693,7 +5693,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								769,
@@ -5718,7 +5718,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								769,
@@ -5743,7 +5743,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								769,
@@ -5768,7 +5768,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								769,
@@ -5793,7 +5793,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								769,
@@ -5807,7 +5807,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								769,
@@ -5821,7 +5821,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								385,
 								808,
@@ -5835,7 +5835,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								1,
@@ -5849,7 +5849,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								1,
@@ -5874,7 +5874,7 @@
 						504007876216753,
 						[
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								1,
 								1,
@@ -5888,7 +5888,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								153,
 								1,
@@ -5909,7 +5909,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								305,
 								1,
@@ -5930,7 +5930,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								457,
 								1,
@@ -5953,7 +5953,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								1,
@@ -5978,7 +5978,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								761,
 								1,
@@ -6005,7 +6005,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								1,
 								270,
@@ -6034,7 +6034,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								153,
 								270,
@@ -6061,7 +6061,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								305,
 								270,
@@ -6092,7 +6092,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								305,
 								270,
@@ -6123,7 +6123,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								457,
 								270,
@@ -6154,7 +6154,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								457,
 								270,
@@ -6185,7 +6185,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								270,
@@ -6212,7 +6212,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								270,
@@ -6239,7 +6239,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								761,
 								270,
@@ -6270,7 +6270,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								761,
 								270,
@@ -6301,7 +6301,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								1,
 								539,
@@ -6328,7 +6328,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								1,
 								539,
@@ -6355,7 +6355,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								153,
 								539,
@@ -6369,7 +6369,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								153,
 								539,
@@ -6383,7 +6383,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								305,
 								539,
@@ -6397,7 +6397,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								305,
 								539,
@@ -6411,7 +6411,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								457,
 								539,
@@ -6425,7 +6425,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								457,
 								539,
@@ -6439,7 +6439,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								1,
 								1,
@@ -6453,7 +6453,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								1,
 								1,
@@ -6509,7 +6509,7 @@
 						626609906294417,
 						[
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								173,
 								385,
@@ -6538,7 +6538,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								124,
 								385,
@@ -6563,7 +6563,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								124,
 								449,
@@ -6588,7 +6588,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								69,
 								449,
@@ -6615,7 +6615,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								69,
 								449,
@@ -6642,7 +6642,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								1,
 								385,
@@ -6671,7 +6671,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								1,
 								257,
@@ -6702,7 +6702,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								1,
 								257,
@@ -6733,7 +6733,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								176,
 								129,
@@ -6764,7 +6764,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								176,
 								129,
@@ -6795,7 +6795,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								173,
 								257,
@@ -6822,7 +6822,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								173,
 								257,
@@ -6849,7 +6849,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								89,
 								257,
@@ -6874,7 +6874,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								89,
 								257,
@@ -6899,7 +6899,7 @@
 								]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								89,
 								129,
@@ -6913,7 +6913,7 @@
 								[]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								89,
 								129,
@@ -6927,7 +6927,7 @@
 								[]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								1,
 								129,
@@ -6941,7 +6941,7 @@
 								[]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								1,
 								129,
@@ -6955,7 +6955,7 @@
 								[]
 							],
 							[
-								"images/splash2-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash2-sheet0.png",
 								26437,
 								173,
 								385,
@@ -7030,7 +7030,7 @@
 						484032989337788,
 						[
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								1,
@@ -7044,7 +7044,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								181,
@@ -7067,7 +7067,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								361,
@@ -7090,7 +7090,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								539,
@@ -7117,7 +7117,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								539,
@@ -7144,7 +7144,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								539,
@@ -7171,7 +7171,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								541,
@@ -7200,7 +7200,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								541,
@@ -7229,7 +7229,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								541,
@@ -7260,7 +7260,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								541,
@@ -7291,7 +7291,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								769,
@@ -7320,7 +7320,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								609,
 								769,
@@ -7349,7 +7349,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								769,
@@ -7374,7 +7374,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								711,
 								769,
@@ -7399,7 +7399,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								769,
@@ -7424,7 +7424,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								813,
 								769,
@@ -7449,7 +7449,7 @@
 								]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								769,
@@ -7463,7 +7463,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								915,
 								769,
@@ -7477,7 +7477,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								385,
 								808,
@@ -7491,7 +7491,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								1,
@@ -7505,7 +7505,7 @@
 								[]
 							],
 							[
-								"images/splash-sheet0.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/splash-sheet0.png",
 								139774,
 								913,
 								1,
@@ -7565,7 +7565,7 @@
 						471894396526916,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1793,
 								1537,
@@ -7605,7 +7605,7 @@
 				1,
 				0,
 				[
-					"images/curtain-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/curtain-sheet0.png",
 					4001,
 					0,
 					0,
@@ -7688,7 +7688,7 @@
 						955573078985735,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1281,
 								1793,
@@ -7768,7 +7768,7 @@
 						658203831315423,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1537,
 								1281,
@@ -7812,7 +7812,7 @@
 						485331272925690,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1793,
 								1281,
@@ -7892,7 +7892,7 @@
 						813455660297597,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1281,
 								1281,
@@ -7961,7 +7961,7 @@
 				0,
 				0,
 				[
-					"images/factbg-sheet0.png",
+					"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/factbg-sheet0.png",
 					4016,
 					0,
 					0,
@@ -8147,7 +8147,7 @@
 						820691775362620,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								483,
 								1,
@@ -8200,7 +8200,7 @@
 						771071892877599,
 						[
 							[
-								"images/shared-0-sheet1.png",
+								"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/images/shared-0-sheet1.png",
 								1998926,
 								1,
 								1025,
@@ -21812,7 +21812,7 @@
 				false
 			]
 		],
-		"media/",
+		"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/media/",
 		false,
 		1280,
 		720,
@@ -21836,7 +21836,7 @@
 		[],
 		"normalized",
 		"met4frnwvaf",
-		"fonts/",
+		"https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-arcade@67bb8ab689d3eecbd8ec84ff979ab5c4a05b9fca/AXO_ESCAPE/fonts/",
 		[],
 		"high-performance",
 		[],
