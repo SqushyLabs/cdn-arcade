@@ -14,18 +14,11 @@ jobs:
             python-version: '3.10'
           env:
               ACCESS_TOKEN: '${{ secrets.ACCESS_TOKEN }}'
-        - run: ls
+        - run: python formatC3.py --version ${{ github.sha }}
         - run: |
             git config --global user.email "sqush.bot@squshy.co"
             git config --global user.name "sqush.bot"
             git config --global credential.helper cache
-            git switch -c c3_reformat
-            git push --set-upstream origin c3_reformat
-        - run: python formatC3.py --version ${{ github.sha }}
-        - run: |
             git add .
             git commit -m "Automated update: reformatting files for c3 - $(date)"
             git push
-        - run: gh pr create -B main -H c3_reformat --title '[AUTOMATED] c3 reformat' --body 'Created by Github action'
-          env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
